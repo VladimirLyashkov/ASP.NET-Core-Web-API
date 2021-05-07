@@ -7,6 +7,6 @@ namespace MetricsManager
 {
     public class ValuesHolder
     {
-
+        //Понять и простить
     }
 }
